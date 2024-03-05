@@ -17,7 +17,7 @@
   
   [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)
 
-- 💬 Ask me about **AI Chatbot, Android App develop, Web Developing,**
+- 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
 - 📫 How to reach me **shuang497@gatech.com**
 
