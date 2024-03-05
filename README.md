@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/Sol2023/Learning_Map/blob/main/Projects.md)
 
-  **Project list**
+  *Project list*
 
   [1] [E-commerce Project](https://github.com/Sol2023/e-commerce)
   
