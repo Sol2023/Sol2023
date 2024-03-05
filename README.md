@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/Sol2023/Learning_Map/blob/main/Projects.md)
 
   [E-commerce Project](https://github.com/Sol2023/e-commerce)
+  
   [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)
 
 - 💬 Ask me about **AI Chatbot, Android App develop, Web Developing,**
