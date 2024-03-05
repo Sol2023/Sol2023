@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Software Development Process, Android App develop, Web Develop**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Sol2023/Learning_Map/blob/main/Projects.md](https://github.com/Sol2023/Learning_Map/blob/main/Projects.md)
+
 - 💬 Ask me about **AI Chatbot, Android App develop, Web Developing,**
 
 - 📫 How to reach me **shuang497@gatech.com**
