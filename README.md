@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shuang497@gatech.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aTgkmawQuOFOGRFOlQUUHXMc-5r9GvJW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lY2ZPMKTALqKvcFNALNGvidUmkAOBVjj/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm a fan of detective stories and my favorite author is Agatha Christie**
 
