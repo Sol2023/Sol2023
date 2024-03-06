@@ -73,6 +73,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sol2023&show_icons=true&locale=en&layout=compact" alt="Sol2023" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sol2023&theme=shadow_blue&show_icons=true" alt="Sol2023" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sol2023&show_icons=true&locale=en" alt="Sol2023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sol2023&" alt="Sol2023" /></p>
