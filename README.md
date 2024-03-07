@@ -17,6 +17,8 @@
   
   [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)
 
+  [3] [Android App: JobCompare](https://github.com/Sol2023/job_compare.git)
+
 - 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
 - 📫 How to reach me **shuang497@gatech.com**
