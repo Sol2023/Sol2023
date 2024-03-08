@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuang497&label=Profile%20views&color=0e75b6&style=flat" alt="shuang497" /> </p>
 
-- 🔭 I’m currently working on [amazon-product-review-project](https://github.com/Sol2023/e-commerce)
+- 🔭 I’m currently working on:
+  
+  [1][amazon-product-review-project](https://github.com/Sol2023/e-commerce)
+  [2][BuzzBit]
+  [3][AI Chatbot - Education]
+  
 
 - 🌱 I’m currently learning **Software Development Process, Android App develop, Web Develop**
 
