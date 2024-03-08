@@ -9,9 +9,9 @@
   
   [1][Amazon-product-review-project](https://github.com/Sol2023/e-commerce)
   
-  [2][BuzzBid]
+  [2]BuzzBid
   
-  [3][AI Chatbot - Education]
+  [3]AI Chatbot - Education
   
 
 - 🌱 I’m currently learning **Software Development Process, Android App develop, Web Develop**
