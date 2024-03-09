@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
   
-  [1][Amazon-product-review-project](https://github.com/Sol2023/e-commerce)
+  [1][Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
   
   [2]BuzzBid
   
