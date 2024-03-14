@@ -28,6 +28,8 @@
 
   [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI)
 
+  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
+
 - 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
 - 📫 How to reach me **shuang497@gatech.com**
