@@ -20,15 +20,15 @@
 
   *Partial list of projects*
 
-  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce)
+  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce) **Skill sets:** 1) RFM Analysis; 2) Customer segments(K-Means); 
   
-  [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)
+  [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)  **Skill sets:** 1) Time Seriers Forecasting
 
-  [3] [Android App: JobCompare](https://github.com/Sol2023/job_compare.git)
+  [3] [Android App: JobCompare](https://github.com/Sol2023/job_compare.git)  **Skill sets:** 1) Android Studio; 2) Java; 
 
-  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI)
+  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI)  **Skill sets:** 1) Power BI; 2) OPENAI API Labeling; 
 
-  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
+  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)  **Skill sets:** 1) Python 2) Object-oriented Programming; 3) Model Deployment: AWS, Gitactions, CI/CD
 
 - 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
