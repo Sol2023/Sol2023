@@ -20,9 +20,7 @@
 
   *Partial list of projects*
 
-  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce)
-
-  **Skill sets:** 1) RFM Analysis; 2) Customer segments(K-Means); 
+  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce) （**RFM Analysis**， **K-Means** ）
   
   [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast)
 
