@@ -20,15 +20,15 @@
 
   *Partial list of projects*
 
-  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce) （**RFM Analysis**， **K-Means** ）
+  [1] [E-commerce Project](https://github.com/Sol2023/e-commerce) （*RFM Analysis*， *K-Means* ）
   
-  [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast) （**Time Seriers**）
+  [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast) （*Time Seriers*）
 
-  [3] [JobCompare](https://github.com/Sol2023/job_compare.git)  (**Android Studio**, **Java**)
+  [3] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
-  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (**Power BI**,  **OPENAI API Labeling**) 
+  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*,  *OPENAI API Labeling*) 
 
-  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (**Python OOP**, **Data Pipeline**, **Model Deployment**,**Gitactions** )
+  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Gitactions* )
 
 - 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
