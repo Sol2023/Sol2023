@@ -30,7 +30,6 @@
 
   [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Gitactions* )
 
-- 💬 Ask me about **Python, Machine Learning Algorithms(Random Forest, XGBoost, Time Series forecast, Survival Analysis, Clustering), Data Visulization, Web Scraping, Marketing Analysis, Statistic**
 
 - 📫 How to reach me **shuang497@gatech.com**
 
