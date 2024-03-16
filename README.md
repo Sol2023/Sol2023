@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
   
-  [1][Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
+  [1][Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
   
   [2]BuzzBid
   
@@ -28,7 +28,7 @@
 
   [3] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
-  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*,  *OPENAI API Labeling*) 
+  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*) 
 
   [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, **lask API*， *Gitactions* )
 
