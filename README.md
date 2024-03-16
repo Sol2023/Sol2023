@@ -30,7 +30,7 @@
 
   [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*,  *OPENAI API Labeling*) 
 
-  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Gitactions* )
+  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, **lask API*， *Gitactions* )
 
 
 - 📫 How to reach me **shuang497@gatech.com**
