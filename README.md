@@ -9,7 +9,7 @@
 
   [1][End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
 
-  [2][Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
+  [2][Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
   
   [3]BuzzBid
   
@@ -28,11 +28,13 @@
   
   [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast) （*Time Seriers*）
 
-  [3] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
+  [3] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
 
-  [4] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*) 
+  [4] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask API*， *AWS* *CI/CD* )
 
-  [5] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask API*， *AWS* *CI/CD* )
+  [5] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*) 
+
+  [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
 
 - 📫 How to reach me **shuang497@gatech.com**
