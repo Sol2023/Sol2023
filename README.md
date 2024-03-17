@@ -30,7 +30,7 @@
 
   [3] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
 
-  [4] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask API*， *AWS* *CI/CD* )
+  [4] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask*， *AWS* *CI/CD* )
 
   [5] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*) 
 
