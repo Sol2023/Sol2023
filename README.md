@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on:
 
-  [1][End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
+  [1] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
 
-  [2][Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
+  [2] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
   
-  [3]BuzzBid
+  [3] BuzzBid
   
-  [4]AI Chatbot - Education
+  [4] AI Chatbot - Education
 
   [5] Deep Learning Project
   
