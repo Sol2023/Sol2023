@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
 
-  [1][End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask API*， *AWS* *CI/CD* )
+  [1][End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
 
   [2][Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
   
