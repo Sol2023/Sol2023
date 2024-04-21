@@ -11,7 +11,7 @@
 
   [2] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
   
-  [3] [BuzzBid Full Stack Project](https://github.com/Sol2023/BuzzBid.git) (*PHP*, *HTML*, *CSS*, *MySQL*, AMPPS)
+  [3] BuzzBid Full Stack Project (*PHP*, *HTML*, *CSS*, *MySQL*, AMPPS)
   
   [4] AI Chatbot - Education
 
