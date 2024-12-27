@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working on:
 
-  [1] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection)
+  [1] Profile-Website (Deploy Django Website with AWS's ECS using Terraform)
 
-  [2] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project)
+  [2] AI Chatbot (AWS Bedrock with Multi Agetn, RAG)
   
   [3] BuzzBid Full Stack Project (*PHP*, *HTML*, *CSS*, *MySQL*, AMPPS)
-  
-  [4] AI Chatbot - Education
-
-  [5] Deep Learning Project
   
 
 - 🌱 I’m currently learning **Software Development Process, Android App develop, Web Develop**
