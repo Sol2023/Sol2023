@@ -33,7 +33,7 @@
   [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
 
-- 📫 How to reach me **shuang497@gatech.com**
+- 📫 How to reach me **adam.huang2022@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eIPG9Qs2tal_vDbivzvygaACO7YBRdKP/edit?usp=sharing&ouid=101210288575378616443&rtpof=true&sd=true)
 
